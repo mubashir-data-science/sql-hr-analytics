@@ -1,0 +1,8 @@
+dept_id,dept_name,manager_id,budget,location
+1,Engineering,1211,2562679,Lahore
+2,Sales,1040,4991180,Lahore
+3,Marketing,1144,1389195,Karachi
+4,HR,1135,2229535,Islamabad
+5,Finance,1221,873140,Islamabad
+6,Operations,1034,1998809,Karachi
+7,IT,1299,1945820,Karachi
